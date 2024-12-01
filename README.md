@@ -1,5 +1,4 @@
-# SM25-Galatasaray
-Soccer Manager Galatasaray full paket
+# SM25-Galatasay
 {
 	"PlayerData": [
 		{
